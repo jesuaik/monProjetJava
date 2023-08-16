@@ -8,6 +8,8 @@
     <modules>
         <module>discoveryService</module>
         <module>securityService</module>
+        <module>gateway-service</module>
+        <module>config-service</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
