@@ -137,7 +137,7 @@ public class PharmacieTest {
 // }
 // table de multiplication
 //int mtp= 2;
-// for(int i = 0;i<=12;i++){
+// for(int i = 0;i<=12;i++){,,,,
 //     int res = mtp * i;
 //     System.out.println("2*"+i+"="+res);
 // }
