@@ -12,7 +12,7 @@ import org.springframework.cache.annotation.EnableCaching;
  *
  * @author Christ IKONDO
  */
-
+/** demarrage */
 public class SecurityServiceAplication {
 
         public static void main(String[] args) {
